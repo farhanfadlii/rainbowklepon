@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rainbowklepon/static/css/main.0d83efe7.css",
+    "main.js": "/rainbowklepon/static/js/main.eb150891.js",
+    "static/media/coklat.png": "/rainbowklepon/static/media/coklat.a564b7b2e8ebb49b5904.png",
+    "static/media/keju.png": "/rainbowklepon/static/media/keju.55297ff350c39c0c8407.png",
+    "static/media/instagram.png": "/rainbowklepon/static/media/instagram.776d16d0e9daa177afd5.png",
+    "static/media/logo.png": "/rainbowklepon/static/media/logo.8e69a205875ac0ce4318.png",
+    "static/media/klepon.png": "/rainbowklepon/static/media/klepon.28ec488572eb1036bbc0.png",
+    "static/media/wavebawah.svg": "/rainbowklepon/static/media/wavebawah.8259e32ec34da8504a4ca68a4849b126.svg",
+    "static/media/waveatas.svg": "/rainbowklepon/static/media/waveatas.99a4c2a03dd43d7a1ee4.svg",
+    "index.html": "/rainbowklepon/index.html",
+    "main.0d83efe7.css.map": "/rainbowklepon/static/css/main.0d83efe7.css.map",
+    "main.eb150891.js.map": "/rainbowklepon/static/js/main.eb150891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d83efe7.css",
+    "static/js/main.eb150891.js"
+  ]
+}
